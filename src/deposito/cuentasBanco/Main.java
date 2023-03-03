@@ -4,6 +4,12 @@ public class Main {
     public static void main(String[] args) {
         CuentaBanco cuentaPersonal;
         double saldoActual;
+        
+        //Modificaciones para el ejercicio del commit
+        String modificacionCommit = "";
+        int numModif = 2;
+        double[] otraModif = new double[100];
+        
 
         extracted();
     }
